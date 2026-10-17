@@ -1,0 +1,3 @@
+[submodule "sse-playground"]
+	path = sse-playground
+	url = git@github.com:iguchi-t/sse-playground.git
